@@ -10,7 +10,7 @@ from telethon.errors import FloodWaitError
 # ---------- HARDCODED CREDENTIALS (do not share this file) ----------
 API_ID = 22091901
 API_HASH = "54b0cd5fb47a40265b197f1a110b20b8"
-BOT_TOKEN = "8714923646:AAEiU-2vTvtYkzXdoLUlV6ceQqyzfjrjhY8"
+BOT_TOKEN = "8741861356:AAHQq7jzndrqxp62SbBwgmLSHDvjf0KgJvQ"
 
 # ---------- SETUP ----------
 logging.basicConfig(level=logging.INFO, format='%(name)s - [%(levelname)s] - %(message)s')
